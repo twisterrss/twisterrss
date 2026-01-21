@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?twisterrss&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=your-github-twisterrss&color=brightgreen)
 <!--
 **twisterrss/twisterrss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
